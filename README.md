@@ -1,3 +1,5 @@
+ЗАДАНИЕ к 2 homework
+
 Создать таблицу employees
 - id. serial,  primary key,
 - employee_name. Varchar(50), not null
